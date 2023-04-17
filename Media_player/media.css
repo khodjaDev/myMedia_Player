@@ -1,0 +1,103 @@
+
+
+* {
+
+padding: 0;
+
+margin: 0;
+
+}
+
+
+
+
+body {
+
+display: flex;
+
+justify-content: center;
+
+align-items: center;
+
+}
+
+
+
+
+#mediaPlayer {
+
+background-color: red;
+
+width: 600px;
+
+height: 400px;
+
+margin-top: 20px;
+
+display: flex;
+
+flex-direction: column;
+
+}
+
+
+
+
+#video {
+
+width: 100%;
+
+height: 300px;
+
+margin-top: 20px;
+
+}
+
+
+
+
+#divBtn {
+
+background-color: green;
+
+width: 100%;
+
+height: 80px;
+
+display: flex;
+
+flex-direction: row;
+
+align-items: center;
+
+ justify-content: space-evenly;
+
+
+}
+
+
+
+
+/* .btnBackward {
+
+
+
+
+} */
+
+
+
+
+/* .btnForward {
+
+
+
+
+} */
+
+
+
+
+
+
+
